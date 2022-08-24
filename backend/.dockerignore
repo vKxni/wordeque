@@ -1,5 +1,3 @@
-# This file excludes paths from the Docker build context.
-#
 # By default, Docker's build context includes all files (and folders) in the
 # current directory. Even if a file isn't copied into the container it is still sent to
 # the Docker daemon.
