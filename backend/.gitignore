@@ -25,3 +25,5 @@ word_finder-*.tar
 # deployment stuff
 rel 
 fly.toml
+
+.env
