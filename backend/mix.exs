@@ -5,7 +5,7 @@ defmodule WordFinder.MixProject do
     [
       app: :word_finder,
       version: "0.1.0",
-      description: "The backend of Wordeque"
+      description: "The backend of Wordeque",
       elixir: "~> 1.13",
       elixirc_paths: elixirc_paths(Mix.env()),
       compilers: Mix.compilers(),
