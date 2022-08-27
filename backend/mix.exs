@@ -44,7 +44,6 @@ defmodule WordFinder.MixProject do
       {:hammer, "~> 6.1"},
       {:httpoison, "~> 1.8"},
       {:poison, "~> 5.0"},
-
       {:dotenv_parser, "~> 2.0"}
     ]
   end
