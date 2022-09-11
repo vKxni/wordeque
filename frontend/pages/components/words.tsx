@@ -44,7 +44,8 @@ function Words() {
                         id="message"
                         name="message"
                         onChange={handleData}
-                        value={word}></input>
+                        value={word}>
+                    </input>
                 </form>
                 <div className={styles.buttons}>
                     <button onClick={handleSubmit}>Search</button>
